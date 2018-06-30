@@ -4,6 +4,13 @@
     margin-top: 6em;
 }
 
+.menu-button {
+    background-color: #2a80b9;
+    border: 2px white solid;
+    color: white;
+    font-size: .9em;
+}
+
 @media screen and (max-width: 980px) {
     .blog-logo {
         margin: 0 auto;
