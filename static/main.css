@@ -4,11 +4,11 @@
     margin-top: 6em;
 }
 
-.menu-button {
+.cover-active .nav-button a, .nav-button a {
     background-color: #2a80b9;
     border: 2px white solid;
     color: white;
-    font-size: .9em;
+    font-size: .8em;
 }
 
 @media screen and (max-width: 980px) {
